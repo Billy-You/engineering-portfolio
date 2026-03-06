@@ -11,7 +11,7 @@ Portfolio focused on:
 
 ## Repository structure
 
-- `00_foundations` → basic engineering and programming projects
+- `00_foundations` → introductory engineering, scientific programming, and modelling projects
 - `01_control_systems` → PID, state-space, control-oriented projects
 - `02_dynamics_and_simulation` → physical modelling and simulation
 - `03_navigation_and_estimation` → Kalman filters, sensor fusion, estimation
@@ -22,3 +22,7 @@ Portfolio focused on:
 ## Current objective
 
 Build a strong engineering portfolio for roles related to control, simulation, robotics and autonomous systems.
+
+## Current projects
+
+- `00_foundations/01_mass_spring_damper` → numerical simulation of a 1D mass-spring-damper system in Python
